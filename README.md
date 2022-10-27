@@ -1,2 +1,2 @@
 # opensource-acm-event
-- This is event held at mjcet
+- This is an event held at mjcet
